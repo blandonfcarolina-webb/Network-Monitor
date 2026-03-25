@@ -30,8 +30,8 @@ python network_monitor.py
 ```
 ## Screenshots
 
-![Network Topology - Packet Tracer](screenshots/topologia.png)
+![Network Topology - Packet Tracer](screenshots/topologia.PNG)
 
-![CSV Log Data](screenshots/csv_file.png)
+![CSV Log Data](screenshots/csv_file.PNG)
 
-![Monitor Running](screenshots/network_monitor_working.png)
+![Monitor Running](screenshots/network_monitor_working.PNG)

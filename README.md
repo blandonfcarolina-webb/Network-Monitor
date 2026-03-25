@@ -29,8 +29,9 @@ Home network with 4 devices monitored:
 python network_monitor.py
 ```
 ## Screenshots
-![Network Topology - Packet Tracer](pictures/topologia.png)
 
-![Monitor Running](pictures/network_monitor_working.png)
+![Network Topology - Packet Tracer](screenshots/topologia.png)
 
-![CSV Log Data](pictures/csv_file.png)
+![CSV Log Data](screenshots/csv_file.png)
+
+![Monitor Running](screenshots/network_monitor_working.png)

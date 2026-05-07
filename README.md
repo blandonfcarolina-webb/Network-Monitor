@@ -5,7 +5,7 @@ Automated network monitoring tool that tracks device availability and response t
 
 ## Technologies Used
 - **Python** - Monitoring automation and data logging
-- **Cisco Packet Tracer** - Network topoly design and simulation
+- **Cisco Packet Tracer** - Network topology design and simulation
 - **CSV** - Lightweght data storage for historical records
 
 ## Network Topology
